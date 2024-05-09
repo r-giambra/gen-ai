@@ -6,3 +6,4 @@ Indice
 
 1. Modelli sequenziali
 2. Implementazione di una RNN
+3. Esempi GenAi
