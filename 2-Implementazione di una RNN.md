@@ -6,7 +6,7 @@ Uno tra i framework più famosi è Keras, costruito sulla base di un ulteriore f
 
 Consigliamo di scorrere questa pagina e il notebook colab contemporaneamente, dato che qui ci proponiamo di spiegare ulteriormente gli snippet di codice (che è possibile eseguire direttamente dal runtime di colab)
 
-Detto ciò, questo è il link del notebook in oggetto: [notebook](https://colab.research.google.com/drive/1gsUnBYmNoHTbo7LQkZLVNuqu8tFUNoYN?hl=it#scrollTo=ZkLu7Y8UCMT7)
+Detto ciò, questo è il link del notebook in oggetto: [notebook](https://colab.research.google.com/drive/1gsUnBYmNoHTbo7LQkZLVNuqu8tFUNoYN?usp=drive_link)
 
 Dopo una prima fase in cui vengono installate le librerie, inizia quello che va sotto il nome di ETL (Extraction, Transformation, Loading) dei dati.
 
