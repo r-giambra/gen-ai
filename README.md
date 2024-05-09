@@ -5,3 +5,4 @@ In questa repo cercheremo di conservare alcune documenti prodotti da noi in cui 
 Indice
 
 1. Modelli sequenziali
+2. Implementazione di una RNN
