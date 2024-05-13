@@ -8,7 +8,7 @@ Consigliamo di scorrere questa pagina e il notebook colab contemporaneamente, da
 
 Detto ciò, questo è il link del notebook in oggetto:
 
-[<img src="assets/colab.png">](https://colab.research.google.com/drive/1gsUnBYmNoHTbo7LQkZLVNuqu8tFUNoYN?usp=drive_link)
+[<img src="assets/colab.png">](https://colab.research.google.com/github/r-giambra/gen-ai/blob/main/Colab%20Notebooks/Newsletter%20GENAI%20-%20text_generation.ipynb)
 
 
 Dopo una prima fase in cui vengono installate le librerie, inizia quello che va sotto il nome di ETL (Extraction, Transformation, Loading) dei dati.
