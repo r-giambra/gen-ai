@@ -10,6 +10,7 @@ Detto ciò, questo è il link del notebook in oggetto:
 
 [<img src="assets/colab.png">](https://colab.research.google.com/drive/1gsUnBYmNoHTbo7LQkZLVNuqu8tFUNoYN?usp=drive_link)
 
+
 Dopo una prima fase in cui vengono installate le librerie, inizia quello che va sotto il nome di ETL (Extraction, Transformation, Loading) dei dati.
 
 Per capire come organizzare il dataset è necessario comprendere l’algoritmo di Learning da applicare. Nello specifico, si vuole allenare la cella RNN character-wise, quindi a partire da un carattere (e lo stato globale acquisito fino ad ora) si vuole generare il successivo.
