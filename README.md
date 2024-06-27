@@ -8,3 +8,4 @@ Indice
 2. Implementazione di una RNN
 3. Esempi GenAi
 4. AI per Immagini e reti convoluzionali
+5. AI per video e meccanismi di fusione
